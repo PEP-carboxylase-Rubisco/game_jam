@@ -1,0 +1,22 @@
+# Local editor, OS and temporary files
+.vs/
+.idea/
+*.user
+*.suo
+*.swp
+~$*
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log
+
+# Local builds, exports and scratch recordings
+/build/
+/dist/
+/exports/
+/tmp/
+/game/build/
+/game/dist/
+/game/exports/
+/release/packages/
